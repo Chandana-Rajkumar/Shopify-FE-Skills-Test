@@ -18,12 +18,13 @@
       "hero-1": {
         "type": "hero",
         "settings": {
+          "image": "shopify:\/\/shop_images\/Capture.png",
           "alignment": "center",
           "hero_layout": "full_width",
           "hero_size": "large",
           "text_size": "large",
-          "title": "Image with text overlay",
-          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "title": "Accessories@Interior",
+          "text": "<p><\/p><p><em>A home is a reflection of one’s personality. The way you maintain it, the way you decorate it, somewhere mirrors the inner you.<\/em><\/p>",
           "button_label": "",
           "button_link": ""
         }
@@ -81,7 +82,7 @@
         "type": "collection",
         "settings": {
           "title": "Featured collection",
-          "collection": "",
+          "collection": "home-decor",
           "grid": 4,
           "rows": 2,
           "show_vendor": false,
@@ -91,12 +92,13 @@
       "hero-2": {
         "type": "hero",
         "settings": {
+          "image": "shopify:\/\/shop_images\/7.png",
           "alignment": "center",
           "hero_layout": "full_width",
           "hero_size": "medium",
           "text_size": "large",
-          "title": "Image with text overlay",
-          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "title": "Accessories@Interior",
+          "text": "<p><\/p><p><em>Every Room Must Have Styling Accessories<\/em><\/p>",
           "button_label": "",
           "button_link": ""
         }
@@ -200,10 +202,76 @@
           "show_locale_selector": true,
           "show_currency_selector": true
         }
+      },
+      "16288474375b9e9307": {
+        "type": "rich-text",
+        "settings": {
+          "full_width": true,
+          "section_title": "Featured Products",
+          "text": "",
+          "text_size": "medium"
+        }
+      },
+      "162884744709298a0f": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "home-sparkle-mdf-wall-shelf-cube-design-wall-mounted-shelves-for-living-room-set-of-3-brown",
+          "show_quantity_selector": true,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "162884748551355304": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "dekorly-set-of-4-mini-artificial-plants-potted-fake-bonsai-ball-plant-faux-green-grass-in-white-plastic-pots-for-outdoor-and-indoor-home-desk-decor-4-plants-with-pot",
+          "show_quantity_selector": true,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "16288475134c1c5a9e": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "lifehaxtore®-home-decor-lucky-deer-family-piano-finish-ceramic-figures-set-of-3",
+          "show_quantity_selector": true,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "16288475387e3de7da": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "gosfrid-with-gf-logo-plastic-mini-projector-sky-star-lamp-foor-bedroom-lawn-home-decor-warm-lighting-gifts-multi-color",
+          "show_quantity_selector": true,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
       }
     },
     "content_for_index": [
       "hero-1",
+      "16288474375b9e9307",
+      "162884744709298a0f",
+      "162884748551355304",
+      "16288475134c1c5a9e",
+      "16288475387e3de7da",
       "collection",
       "hero-2"
     ]
